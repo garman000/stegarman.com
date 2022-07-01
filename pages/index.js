@@ -21,7 +21,7 @@ export default function Home() {
             </Center>
             <Center bg="grey" h="75px" color="black">
             <Text fontSize='2xl'>
-            <Box> Full Stack Developer</Box>
+            <Box> World Traveller || Full Stack Developer</Box>
             </Text>
             </Center>
             <Center h="100px" color="black"  border='1px' borderColor='black.200'>
