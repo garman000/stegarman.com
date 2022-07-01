@@ -17,7 +17,7 @@ export default function Home() {
             {/* <Flex height="100vh" py={20}> */}
 
             <Center bg="tomato" h="100px" color="white">
-              <Text fontSize="4xl">STEVEN GARMAN</Text>
+              <Text fontSize="4xl">STEVEN Julian GARMAN</Text>
             </Center>
             <Center bg="grey" h="75px" color="black">
               <Text fontSize="2xl">
